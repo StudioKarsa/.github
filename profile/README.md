@@ -1,1 +1,1 @@
-![Studio karsa banner](banner.png)
+![Studio karsa banner](./banner.png)
