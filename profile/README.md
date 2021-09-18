@@ -1,1 +1,1 @@
-![Studio karsa banner](./banner.png)
+![banner](https://raw.githubusercontent.com/StudioKarsa/.github/main/profile/banner.png)
